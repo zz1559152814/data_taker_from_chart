@@ -1,0 +1,1 @@
+ Data taker from charts 

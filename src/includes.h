@@ -1,0 +1,16 @@
+#include </usr/local/include/opencv2/opencv.hpp>
+#include <stdio.h>  
+#include <sstream>
+#include <sys/stat.h>  
+#include <sys/types.h>  
+#include <time.h>  
+#include <sys/timeb.h>  
+#include <stdlib.h>  
+#include </usr/local/include/opencv/cv.h>  
+#include </usr/local/include/opencv/cxcore.h>  
+#include </usr/local/include/opencv/highgui.h>
+#include <fstream>
+#include <iostream>
+#include <ctime>
+#include <string>
+#include "ProcessClass.h"
